@@ -14,4 +14,4 @@ galaxy_info:
   - development
   - packaging
 dependencies:
-- osxc.homebrew
+- Meuk.osxc-homebrew
