@@ -1,9 +1,9 @@
-packages
-========
+osxc-packages
+=============
 
-Install packages on your mac from different sources
+Install packages on your mac with homebrew.
 
-[![Build Status](https://travis-ci.org/osxc/packages.svg)](https://travis-ci.org/osxc/packages/)
+This is a fork of osxc.packages, with the homebrew installation package switched to a newer one.
 
 ## Requirements
 
@@ -40,7 +40,7 @@ the following are all **optional** and can be applied only as needed:
 ```
 ## Dependencies
 
-- `osxc.homebrew`
+- `FGtatsuro.homebrew`
 
 ## License
 
@@ -49,4 +49,3 @@ MIT
 ## Author
 
 - Robin Ricard
-

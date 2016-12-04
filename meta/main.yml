@@ -13,4 +13,4 @@ galaxy_info:
   - development
   - packaging
 dependencies:
-- Meuk.osxc-homebrew
+- FGtatsuro.homebrew
